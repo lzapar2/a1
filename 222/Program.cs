@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace _222 {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("HEHE");
+            Console.WriteLine("HawdawdEHE");
         }
     }
 }
